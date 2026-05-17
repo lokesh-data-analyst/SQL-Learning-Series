@@ -19,6 +19,9 @@ This module explains SQL Data Types with practical examples.
 | SQL_DataTypes.sql | SQL query examples |
 | SQL_DataTypes_Presentation.pptx | Presentation slides |
 
+
+<img width="873" height="456" alt="image" src="https://github.com/user-attachments/assets/c0f7a898-81f9-4776-be96-f0d32568f274" />
+
 ---
 
 ## 🎥 YouTube Video
