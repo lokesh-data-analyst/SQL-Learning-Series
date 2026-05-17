@@ -23,7 +23,7 @@ This module explains SQL Data Types with practical examples.
 
 ## 🎥 YouTube Video
 
-[Paste Video Link]
+https://youtu.be/QYP1269_MiU
 
 ---
 
